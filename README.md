@@ -10,4 +10,7 @@ Note: not all notebooks/files added will show every project done or concept lear
 4. (Portfolio Project 1) US Medical Insurance Cost
 5. Prodcu Defects
 6. NBA Trends
-7. Exploring Mushroom *
+7. Airline Analysis
+8. Exploring Mushroom: practiced visualising data from a mushroom dataset.
+9. (Portfolio Project 2) Life Expectancy and GDP
+10. (Portfolio Project 3)
