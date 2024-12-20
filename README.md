@@ -15,5 +15,7 @@ Note: not all notebooks/files added will show every project done or concept lear
 8. Exploring Mushroom: practised visualising data from a mushroom dataset.
 9. (Portfolio Project 2) Life Expectancy and GDP- analyzed data on GDP and life expectancy from the World Health Organization and the World Bank to try and identify the relationship between the GDP and life expectancy of six countries.
 10. Hurricane Analysis: explored functions in Python among other things
+11. Cleaning US Census Data: getting the data provided into reasonabe shape to make data visualisations.
+
 
 
