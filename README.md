@@ -17,7 +17,8 @@ Note: not all notebooks/files added will show every project done or concept lear
 10. Hurricane Analysis: explored functions in Python among other things
 11. Cleaning US Census Data: getting the data provided into reasonabe shape to make data visualisations.
 12. EDA Diagnosing Diabetes:  used Exploratory Data Analysis skills to inspect, clean and validate data.
-13. Python Classes Medical Insurance: devloped a system that made it easier to organize patient data by using knowledge of python classes.
+13. (Portfolio Project 3): Biodiversity -Interpret data from the National Parks Service about endangered species in different parks.
+14. Python Classes Medical Insurance: devloped a system that made it easier to organize patient data by using knowledge of python classes.
 
 
 
