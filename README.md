@@ -23,6 +23,7 @@ Note: not all notebooks/files added will show every project done or concept lear
 
 16. Python Classes Medical Insurance: developed a system that made it easier to organize patient data by using knowledge of Python classes.
 17. TennisAce: Created a linear regression model to predict the outcome for a tennis player based on their playing habits.
+18. Wrapper Methods: This project, touches on my knowledge of feature selection. It includes analyzing data about people's eating habits and weights.
 
 
 
