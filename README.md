@@ -2,6 +2,7 @@
 This repository represents and shows my journey through the Codecademy Data Science Path. It includes notebooks which focus on different concepts that were/are being learnt.
 This README will also be updated as I update the repo and advance in the path.
 Note: not all notebooks/files added will show every project done or concept learnt in the path, as some were done in the Codecademy interface.
+I'm going to include the data files in folders with the code so its easier to run
 
 **DATA ANALYSIS**
 1. Frida Project-made use of basic Python knowledge
