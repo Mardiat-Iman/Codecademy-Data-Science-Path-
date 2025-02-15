@@ -1,8 +1,7 @@
 # Codecademy-Data-Science-Path-
-This repository represents and shows my journey through the Codecademy Data Science Path. It includes notebooks which focus on different concepts that were/are being learnt.
-This README will also be updated as I update the repo and advance in the path.
+This repository represents and shows my journey through the Codecademy Data Science Path. It includes notebooks which focus on different concepts that were learnt.
 Note: not all notebooks/files added will show every project done or concept learnt in the path, as some were done in the Codecademy interface.
-I'm going to include the data files in folders with the code so its easier to run
+
 
 **DATA ANALYSIS**
 1. Frida Project-made use of basic Python knowledge
@@ -24,8 +23,8 @@ I'm going to include the data files in folders with the code so its easier to ru
 
 16. Python Classes Medical Insurance: developed a system that made it easier to organize patient data by using knowledge of Python classes.
 17. TennisAce: Created a linear regression model to predict the outcome for a tennis player based on their playing habits.
-18. Wrapper Methods: This project, touches on my knowledge of feature selection. It includes analyzing data about people's eating habits and weights.
-19. (Portfolio Porject 4): OKCupid-
+18. Wrapper Methods: This project, touches on my knowledge of feature selection. It includes analyzing data about people's eating habits and weight.
+19. (Portfolio Project 4): OKCupid- This project aims to practice formulating questions and implementing machine learning techniques to answer those questions.
 
 
 
